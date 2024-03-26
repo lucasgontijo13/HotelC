@@ -1,0 +1,39 @@
+1
+Fornecedor XYZ
+Razao Social XYZ
+123456
+987654
+Estado XYZ
+Cidade XYZ
+12345-678
+Bairro XYZ
+Rua XYZ
+123
+123-456-7890
+fornecedor_xyz@example.com
+2
+Fornecedor ABC
+Razao Social ABC
+654321
+123789
+Estado ABC
+Cidade ABC
+54321-876
+Bairro ABC
+Rua ABC
+456
+987-654-3210
+fornecedor_abc@example.com
+4
+JKL Distribuidora
+JKL Comércio de Produtos Ltda.
+789012
+01234567890123
+Estado JKL
+Cidade JKL
+67890-123
+Bairro JKL
+Rua JKL
+789
+777-456-1230
+contato@jkl.com

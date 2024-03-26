@@ -1,0 +1,81 @@
+1
+João da Silva
+São Paulo
+São Paulo
+12345-678
+Centro
+Rua Principal
+123
+123.456.789-00
+(11) 1234-5678
+joao.silva@example.com
+Masculino
+Solteiro
+15
+7
+1990
+2
+Maria Santos
+Rio de Janeiro
+Rio de Janeiro
+54321-987
+Copacabana
+Avenida Beira-Mar
+456
+987.654.321-00
+(21) 9876-5432
+maria.santos@example.com
+Feminino
+Casada
+10
+3
+1985
+3
+Carlos Ferreira
+Minas Gerais
+Belo Horizonte
+98765-432
+Centro
+Rua das Flores
+789
+345.678.901-23
+(31) 1234-5678
+carlos.ferreira@example.com
+Masculino
+Divorciado
+5
+9
+1978
+4
+Ana Oliveira
+Bahia
+Salvador
+87654-321
+Barra
+Avenida Ondina
+567
+567.890.123-45
+(71) 4321-8765
+ana.oliveira@example.com
+Feminino
+Viúva
+20
+12
+1965
+5
+Rafael Almeida
+Santa Catarina
+Florianópolis
+76543-210
+Ingleses
+Rua das Palmeiras
+987
+678.901.234-56
+(48) 8765-4321
+rafael.almeida@example.com
+Masculino
+Casado
+8
+4
+1980
+

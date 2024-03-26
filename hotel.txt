@@ -1,0 +1,19 @@
+nome fantasia
+razao social
+12345678901
+02140593677
+Estado
+Cidade
+35557000
+Bairro
+Rua
+1275
+32440316
+email@hotel
+Lucas
+998583707
+10
+0
+10
+0
+50.000000

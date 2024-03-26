@@ -1,0 +1,212 @@
+<dados>
+    <tabela=hotel>
+        <registro>
+            <nome_fantasia>nome fantasia</nome_fantasia>
+            <razao_social>razao social</razao_social>
+            <inscricao_estadual>12345678901</inscricao_estadual>
+            <cnpj>02140593677</cnpj>
+            <endereco>Estado;Cidade;Bairro;35557000;Rua;1275</endereco>
+            <telefone>32440316</telefone>
+            <email>email@hotel</email>
+            <nome_responsavel>Lucas</nome_responsavel>
+            <telefone_responsavel>998583707</telefone_responsavel>
+            <checkin>10:0</checkin>
+            <checkout>10:0</checkout>
+            <mlpv>50.000000</mlpv>
+        </registro>
+    </tabela=hotel>
+    <tabela=hospedes>
+        <registro>
+            <codigo>1</codigo>
+            <nome>João da Silva</nome>
+            <endereco>São Paulo;São Paulo;Centro;12345-678;Rua Principal;909259832</endereco>
+            <cpf>123.456.789-00</cpf>
+            <telefone>(11) 1234-5678</telefone>
+            <email>joao.silva@example.com</email>
+            <sexo>Masculino</sexo>
+            <est_civil>Solteiro</est_civil>
+            <data_nascimento>15/7/1990</data_nascimento>
+        </registro>
+        <registro>
+            <codigo>2</codigo>
+            <nome>Maria Santos</nome>
+            <endereco>Rio de Janeiro;Rio de Janeiro;Copacabana;54321-987;Avenida Beira-Mar;875967033</endereco>
+            <cpf>987.654.321-00</cpf>
+            <telefone>(21) 9876-5432</telefone>
+            <email>maria.santos@example.com</email>
+            <sexo>Feminino</sexo>
+            <est_civil>Casada</est_civil>
+            <data_nascimento>10/3/1985</data_nascimento>
+        </registro>
+        <registro>
+            <codigo>3</codigo>
+            <nome>Carlos Ferreira</nome>
+            <endereco>Minas Gerais;Belo Horizonte;Centro;98765-432;Rua das Flores;959788856</endereco>
+            <cpf>345.678.901-23</cpf>
+            <telefone>(31) 1234-5678</telefone>
+            <email>carlos.ferreira@example.com</email>
+            <sexo>Masculino</sexo>
+            <est_civil>Divorciado</est_civil>
+            <data_nascimento>5/9/1978</data_nascimento>
+        </registro>
+        <registro>
+            <codigo>4</codigo>
+            <nome>Ana Oliveira</nome>
+            <endereco>Bahia;Salvador;Barra;87654-321;Avenida Ondina;959788856</endereco>
+            <cpf>567.890.123-45</cpf>
+            <telefone>(71) 4321-8765</telefone>
+            <email>ana.oliveira@example.com</email>
+            <sexo>Feminino</sexo>
+            <est_civil>Viúva</est_civil>
+            <data_nascimento>20/12/1965</data_nascimento>
+        </registro>
+        <registro>
+            <codigo>5</codigo>
+            <nome>Rafael Almeida</nome>
+            <endereco>Santa Catarina;Florianópolis;Ingleses;76543-210;Rua das Palmeiras;959788856</endereco>
+            <cpf>678.901.234-56</cpf>
+            <telefone>(48) 8765-4321</telefone>
+            <email>rafael.almeida@example.com</email>
+            <sexo>Masculino</sexo>
+            <est_civil>Casado</est_civil>
+            <data_nascimento>8/4/1980</data_nascimento>
+        </registro>
+    </tabela=hospedes>
+    <tabela=acomodacoes>
+        <registro>
+            <codigo>1</codigo>
+            <descricao>Quarto 1</descricao>
+            <facilidades>TV,AR,CAMA</facilidades>
+            <categoria>1</categoria>
+            <diarias>5</diarias>
+            <lucro>5000.000000</lucro>
+            <ocupacao>1</ocupacao>
+        </registro>
+        <registro>
+            <codigo>2</codigo>
+            <descricao>Quarto 2</descricao>
+            <facilidades>TV,AR,CAMA,KING</facilidades>
+            <categoria>2</categoria>
+            <diarias>0</diarias>
+            <lucro>0.000000</lucro>
+            <ocupacao>0</ocupacao>
+        </registro>
+        <registro>
+            <codigo>3</codigo>
+            <descricao>Quarto 3</descricao>
+            <facilidades>TV,COFRE</facilidades>
+            <categoria>3</categoria>
+            <diarias>0</diarias>
+            <lucro>0.000000</lucro>
+            <ocupacao>0</ocupacao>
+        </registro>
+        <registro>
+            <codigo>4</codigo>
+            <descricao>Quarto 4</descricao>
+            <facilidades>TV,SIZE,</facilidades>
+            <categoria>4</categoria>
+            <diarias>5</diarias>
+            <lucro>7500.000000</lucro>
+            <ocupacao>1</ocupacao>
+        </registro>
+        <registro>
+            <codigo>1635280192</codigo>
+            <descricao>mple.com</descricao>
+            <facilidades></facilidades>
+            <categoria>-15508</categoria>
+            <diarias>-15466</diarias>
+            <lucro>0.000000</lucro>
+            <ocupacao>8</ocupacao>
+        </registro>
+    </tabela=acomodacoes>
+    <tabela=categoria_acomodacao>
+        <registro>
+            <codigo>1</codigo>
+            <descricao>Categoria 1</descricao>
+            <valor_diaria>1000.000000</valor_diaria>
+            <adultos>1</adultos>
+            <criancas>1</criancas>
+        </registro>
+        <registro>
+            <codigo>2</codigo>
+            <descricao>Categoria 2</descricao>
+            <valor_diaria>2000.000000</valor_diaria>
+            <adultos>2</adultos>
+            <criancas>2</criancas>
+        </registro>
+    </tabela=categoria_acomodacao>
+    <tabela=produtos>
+        <registro>
+            <codigo>1</codigo>
+            <descricao>COCA</descricao>
+            <estoque>1</estoque>
+            <estoque_min>5</estoque_min>
+            <preco_custo>10.000000</preco_custo>
+            <preco_venda>15.000000</preco_venda>
+        </registro>
+        <registro>
+            <codigo>2</codigo>
+            <descricao>GUARANA</descricao>
+            <estoque>10</estoque>
+            <estoque_min>5</estoque_min>
+            <preco_custo>5.000000</preco_custo>
+            <preco_venda>10.000000</preco_venda>
+        </registro>
+        <registro>
+            <codigo>3</codigo>
+            <descricao>FANTA</descricao>
+            <estoque>10</estoque>
+            <estoque_min>5</estoque_min>
+            <preco_custo>5.000000</preco_custo>
+            <preco_venda>10.000000</preco_venda>
+        </registro>
+    </tabela=produtos>
+    <tabela=fornecedores>
+        <registro>
+            <codigo>1</codigo>
+            <nome_fantasia>Fornecedor XYZ</nome_fantasia>
+            <razao_social>Razao Social XYZ</razao_social>
+            <inscricao_estadual>123456</inscricao_estadual>
+            <cnpj>987654</cnpj>
+            <endereco>Estado XYZ;Cidade XYZ;Bairro XYZ;12345-678;Rua XYZ;123</endereco>
+            <telefone>123-456-7890</telefone>
+            <email>fornecedor_xyz@example.com</email>
+        </registro>
+        <registro>
+            <codigo>2</codigo>
+            <nome_fantasia>Fornecedor ABC</nome_fantasia>
+            <razao_social>Razao Social ABC</razao_social>
+            <inscricao_estadual>654321</inscricao_estadual>
+            <cnpj>123789</cnpj>
+            <endereco>Estado ABC;Cidade ABC;Bairro ABC;54321-876;Rua ABC;456</endereco>
+            <telefone>987-654-3210</telefone>
+            <email>fornecedor_abc@example.com</email>
+        </registro>
+        <registro>
+            <codigo>4</codigo>
+            <nome_fantasia>JKL Distribuidora</nome_fantasia>
+            <razao_social>JKL Comércio de Produtos Ltda.</razao_social>
+            <inscricao_estadual>789012</inscricao_estadual>
+            <cnpj>01234567890123</cnpj>
+            <endereco>Estado JKL;Cidade JKL;Bairro JKL;67890-123;Rua JKL;789</endereco>
+            <telefone>777-456-1230</telefone>
+            <email>contato@jkl.com</email>
+        </registro>
+    </tabela=fornecedores>
+    <tabela=operadores>
+        <registro>
+            <codigo>1</codigo>
+            <nome>Lucas</nome>
+            <usuario>LCS</usuario>
+            <senha>123</senha>
+            <permissoes>1;1;1;1;1</permissoes>
+        </registro>
+        <registro>
+            <codigo>2</codigo>
+            <nome>Kauan</nome>
+            <usuario>Ka</usuario>
+            <senha>345</senha>
+            <permissoes>1;1;1;1;1</permissoes>
+        </registro>
+    </tabela=operadores>
+</dados>

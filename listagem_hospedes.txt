@@ -1,0 +1,1 @@
+2;Maria Santos;Rio de Janeiro;Rio de Janeiro;54321-987;Copacabana;Avenida Beira-Mar;959788856;987.654.321-00;(21) 9876-5432;maria.santos@example.com;Feminino;Casada;10;3;1985;4;Ana Oliveira;Bahia;Salvador;87654-321;Barra;Avenida Ondina;926496057;567.890.123-45;(71) 4321-8765;ana.oliveira@example.com;Feminino;Viúva;20;12;1965;
