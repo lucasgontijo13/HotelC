@@ -62,7 +62,7 @@ int muda_arquivo_bin_p_txt();
 //funcao que pega dados dos arquivos txt e passa para o arquivo binario
 int muda_arquivo_txt_p_bin();
 
-
+int contarDias(data_chek_in_out datas);
 
 #endif /* FUNCOES_H */
 

@@ -3296,7 +3296,7 @@ void main_listar_conta_pagar_txt() {
 void main_listagem_hospede_txt(){
     int listagem[2];
     int codigo[2];
-    int sexo[20];
+    char sexo[20];
     int opcao;
     
     printf("\n-----------LISTAGEM DE HÓSPEDES-----------\n");
@@ -7013,7 +7013,7 @@ void main_listar_conta_pagar_bin() {
 void main_listagem_hospede_bin() {
     int listagem[2];
     int codigo[2];
-    int sexo[20];
+    char sexo[20];
     int opcao;
 
     printf("\n-----------LISTAGEM DE HÓSPEDES-----------\n");

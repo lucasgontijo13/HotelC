@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    },
+    "code-runner.executorMap": {
+        "c": "cmd /c build_and_run.bat",
+    }
+    
+}

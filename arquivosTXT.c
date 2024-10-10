@@ -2182,7 +2182,7 @@ int listagem_acomodacoes_txt(int *codigo, int *listagem,int categoria,int opcao,
 
         fclose(P);
         printf("Listagem de acomodação gerada com sucesso.\n");
-        return 0;
+        return  0;
     }
     
 }
